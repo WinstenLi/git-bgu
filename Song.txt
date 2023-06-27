@@ -1,10 +1,5 @@
 am dy amadi amada
 Heiiio
-<<<<<<< HEAD
 sdfsdfsdfsdfsdfsd
 new text 
 new
-=======
-
-new text 
->>>>>>> parent of 3f4981f (Final Commit  ))
